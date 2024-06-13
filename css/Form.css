@@ -1,0 +1,73 @@
+#form {
+    background-color: #b1b1b1;
+    padding: 0 30px 30px 50px;
+    border-radius: 10%;
+}
+#form h1{
+    text-align: center;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', sans-serif;
+}
+.text-field {
+    border-radius: 10px;
+    font-family:'Gill Sans', 'Gill Sans MT', sans-serif;
+    height: 30px;
+    padding: 5px 10px;
+}
+.button {
+    border-radius: 20px;
+    height: 40px;
+    font-weight: bold;
+}
+#btn-list {
+    display: flex;
+    gap: 10px;
+    width: 100%;
+}
+
+
+.card-invoice-details{
+    padding-left: 10px;
+}
+.card-item-select {
+    margin-bottom: 10px;
+}
+.card {
+    padding-right: 10px;
+    background-color: #dcdde6;
+}
+
+.card-head {
+    background-color: #5c62b4;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Gill Sans', sans-serif;
+}
+.card-content{
+    background-color: #c2c2c2;
+    padding-bottom: 10px;
+}
+.add-item-button {
+    background-color: #00f53d;
+    font-weight: bold;
+    color: #000;
+    border-radius: 18px;
+    height: 35px;
+    width: 90px;
+}
+#purchase-button {
+    color: rgb(0, 0, 0);
+    background-color: yellow;
+    border-radius: 20px;
+    height: 35px;
+    width: 85px;
+    font-weight: bold;
+}
+.total {
+    color: #000;
+    font-weight: bold;
+}
+.sub-total{
+    color: #000;
+    
+}
